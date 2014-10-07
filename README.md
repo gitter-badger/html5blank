@@ -1,4 +1,5 @@
 # [HTML5 Blank](http://html5blank.com)
+[![Gitter](https://badges.gitter.im/Join Chat.svg)](https://gitter.im/fanuneza/html5blank?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 
 Powerful shell for rapidly deploying your WordPress projects.
 
